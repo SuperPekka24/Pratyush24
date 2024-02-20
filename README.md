@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SuperPekka24
+- 👋 Hi, I’m @Pratyush24
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning web developement.
 - 💞️ I’m looking to collaborate on ...
